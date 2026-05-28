@@ -18,6 +18,16 @@ public class TestRunnerClassOmrhotel extends LoginPageStepDfnFile {
 		System.out.println("Framework DataDriven");
 		System.out.println("API");
 		System.out.println("MobileTesting");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 
 }
